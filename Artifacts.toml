@@ -65,7 +65,7 @@ os = "linux"
     url = "https://github.com/oblivia-simplex/unicorn_jll/raw/main/unicorn.v1.0.0.powerpc64le-linux-gnu.tar.gz"
 [[unicorn]]
 arch = "x86_64"
-git-tree-sha1 = "6b04826bd9938710434f1148fa4fd66ac37da15e"
+git-tree-sha1 = "ba804ce4c2dc5dbed00c4d367581c5a982fffdc3"
 libc = "glibc"
 os = "linux"
 
