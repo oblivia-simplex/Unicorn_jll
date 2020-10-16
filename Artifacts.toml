@@ -70,7 +70,7 @@ libc = "glibc"
 os = "linux"
 
     [[unicorn.download]]
-    sha256 = "06bfc3a99905fd4e97a2b9f87ad2b856a20a1807b421b6b7084e2262a91831f9"
+    sha256 = "d5018d4256a5c8393b3723a0c1839c24280adbc14572bd6d88009bd6f655a501"
     url = "https://github.com/oblivia-simplex/unicorn_jll/raw/main/unicorn.v1.0.0.x86_64-linux-gnu.tar.gz"
 [[unicorn]]
 arch = "x86_64"
