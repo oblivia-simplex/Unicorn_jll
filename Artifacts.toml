@@ -1,0 +1,81 @@
+[[unicorn]]
+arch = "aarch64"
+git-tree-sha1 = "e56ed0b11ba93840ca2c60a6e64c5ede370517b5"
+libc = "glibc"
+os = "linux"
+
+    [[unicorn.download]]
+    sha256 = "38c89363ad1424ca2e984e1c848af6895368747fb5bbc8a7103e7d6ea959dd29"
+    url = "https://github.com/oblivia-simplex/unicorn_jll/releases/download/unicorn-v1.0.0+0/unicorn.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[unicorn]]
+arch = "aarch64"
+git-tree-sha1 = "a60aab549b73d8dccf58ca8a1f47111c95f8b9a0"
+libc = "musl"
+os = "linux"
+
+    [[unicorn.download]]
+    sha256 = "21c18adf8461101cd705263229cb25e95a693a68e4839fa64833e19b828ad441"
+    url = "https://github.com/oblivia-simplex/unicorn_jll/releases/download/unicorn-v1.0.0+0/unicorn.v1.0.0.aarch64-linux-musl.tar.gz"
+[[unicorn]]
+arch = "armv7l"
+git-tree-sha1 = "9257ba1608cb517129c9ab61b32b33146595d8cd"
+libc = "glibc"
+os = "linux"
+
+    [[unicorn.download]]
+    sha256 = "9af8174ff33a6b34f84a04b5282b953dad15fc84ab7cec6e274d539c56f0f505"
+    url = "https://github.com/oblivia-simplex/unicorn_jll/releases/download/unicorn-v1.0.0+0/unicorn.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[unicorn]]
+arch = "armv7l"
+git-tree-sha1 = "dfc6cb113d157e8a5f7b4b1714251b8dd8d137d0"
+libc = "musl"
+os = "linux"
+
+    [[unicorn.download]]
+    sha256 = "e9e81ce9d9dbacaba6e90bcd90fb9f009114c9d7e0deccd9c355309fe92b8031"
+    url = "https://github.com/oblivia-simplex/unicorn_jll/releases/download/unicorn-v1.0.0+0/unicorn.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[unicorn]]
+arch = "i686"
+git-tree-sha1 = "8c70cb29714f5e011709ec097ab7e2439d41e72e"
+libc = "glibc"
+os = "linux"
+
+    [[unicorn.download]]
+    sha256 = "406eaa05f5f5a7883404645e034c238c5c39386b800b2afb7b2434d1d9801baa"
+    url = "https://github.com/oblivia-simplex/unicorn_jll/releases/download/unicorn-v1.0.0+0/unicorn.v1.0.0.i686-linux-gnu.tar.gz"
+[[unicorn]]
+arch = "i686"
+git-tree-sha1 = "acf02c33bbe3f981c51ab27a3bc9334f04abf9d7"
+libc = "musl"
+os = "linux"
+
+    [[unicorn.download]]
+    sha256 = "34dd1beaa60fdcebf7b33aacdf149b47a98ab62ba6b7be738d5a13181abf1900"
+    url = "https://github.com/oblivia-simplex/unicorn_jll/releases/download/unicorn-v1.0.0+0/unicorn.v1.0.0.i686-linux-musl.tar.gz"
+[[unicorn]]
+arch = "powerpc64le"
+git-tree-sha1 = "baa3b6934dfd3b85f39475e0e33b4117110561ee"
+libc = "glibc"
+os = "linux"
+
+    [[unicorn.download]]
+    sha256 = "26313a135dbf3ac6ad4cee4d2833cb56f576ab631fb9540e5be31391eb614cf7"
+    url = "https://github.com/oblivia-simplex/unicorn_jll/releases/download/unicorn-v1.0.0+0/unicorn.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[unicorn]]
+arch = "x86_64"
+git-tree-sha1 = "723105cec1a6d19c6b988e64b356758659fe5a32"
+libc = "glibc"
+os = "linux"
+
+    [[unicorn.download]]
+    sha256 = "0e15588f80cc53cf43ed131fbafc77fd69dbc92d25c0ed28bd26c9c01f85c631"
+    url = "https://github.com/oblivia-simplex/unicorn_jll/releases/download/unicorn-v1.0.0+0/unicorn.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[unicorn]]
+arch = "x86_64"
+git-tree-sha1 = "9be716423ffcc7602c6f36cec87b9071ffa50c69"
+libc = "musl"
+os = "linux"
+
+    [[unicorn.download]]
+    sha256 = "d7ba6d99786de1711753b636df601bbee5d078e90eae9a117af2bd1e34bc1035"
+    url = "https://github.com/oblivia-simplex/unicorn_jll/releases/download/unicorn-v1.0.0+0/unicorn.v1.0.0.x86_64-linux-musl.tar.gz"
